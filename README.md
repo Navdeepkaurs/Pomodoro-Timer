@@ -16,3 +16,10 @@ The process continues until all cycles are completed.
 
 <img width="1336" alt="Screenshot 2024-09-30 at 7 46 51 PM" src="https://github.com/user-attachments/assets/eade9036-09fd-4706-997e-0efeaef5bf24">
 
+## Prerequisite
+1. Node.js Installed: Ensure you have Node.js installed on your machine.
+2. JavaScript Knowledge: Basic understanding of JavaScript (variables, functions, loops).
+3. Terminal Usage: Comfort with running commands in the terminal/command line.
+   
+## To Run
+write -> node pomodoro.js on terminal 

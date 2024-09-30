@@ -12,4 +12,5 @@ Once the work session ends, it automatically transitions to a break session, dis
 After completing a set number of cycles, the timer switches to a long break.
 The process continues until all cycles are completed.
 
+<img width="1336" alt="Screenshot 2024-09-30 at 7 46 51 PM" src="https://github.com/user-attachments/assets/eade9036-09fd-4706-997e-0efeaef5bf24">
 
